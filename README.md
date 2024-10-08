@@ -3,27 +3,45 @@
 <!--
 **gos24abhik/gos24abhik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h1 align="center">Hi 👋, I'm Abhik Goswami</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hi there! I'm Abhik Goswami
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gos24abhik&label=Profile%20views&color=0e75b6&style=flat" alt="gos24abhik" /> </p>
+I'm a **final-year Computer Science and Design student** at Dr. B. C. Roy Engineering College, Durgapur, with a passion for **data science, machine learning, and web development**. Currently maintaining a **9.0 CGPA**, I aim to leverage my technical skills to create innovative solutions.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gos24abhik" alt="gos24abhik" /></a> </p>
+## 🌱 About Me
+- 👨‍🎓 **Education**: B.Tech in Computer Science and Design
+- 🧑‍💻 **Interests**: Data Science, Machine Learning, AI, Web Development, Cloud Technologies
+- 🌏 **Location**: Purulia, West Bengal, India
 
-<p align="left"> <a href="https://twitter.com/abhik_goswami" target="blank"><img src="https://img.shields.io/twitter/follow/abhik_goswami?logo=twitter&style=for-the-badge" alt="abhik_goswami" /></a> </p>
+## 💼 Experience
+- **Data Science COE Intern** at Celebal Technologies (May 2024 - Aug 2024)
+  - Engaged in data analysis and machine learning projects.
+- **Salesforce Developer Intern** at SmartInternz & Persistent Systems (July - Aug 2024)
+  - Completed Salesforce Trailhead modules and earned multiple Super Badges.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abhik_goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhik_goswami" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhik-goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhik-goswami" height="30" width="40" /></a>
-</p>
+## 📚 Technical Skills
+- **Programming Languages**: Java, Python, C, SQL
+- **Data Analysis & Visualization**: Numpy, Pandas, Matplotlib, Seaborn, Plotly.js, Tableau
+- **Machine Learning & AI**: Scikit-learn, TensorFlow, GPT-2
+- **Web Development**: Flask, HTML, JavaScript
+- **Tools**: Excel, Jupyter Notebook, Google Colab, Git/Github
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 📈 Projects
+- **[OCR and Document Search Web Application](#)**: A Streamlit app supporting file uploads, detecting Hindi and other languages.
+- **[Text Generation Flask App](#)**: Utilizing GPT-2 for text generation.
+- **[Machine Learning-Driven Sentiment Analysis of Consumer Feedback](#)**: An ongoing project to analyze consumer feedback using machine learning.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gos24abhik&show_icons=true&locale=en&layout=compact" alt="gos24abhik" /></p>
+## 🏆 Achievements
+- **IBM HACK Challenge 2023 Finalist**
+- Completed several certifications in data science and programming from NPTEL and IBM.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gos24abhik&show_icons=true&locale=en" alt="gos24abhik" /></p>
+## 🌟 Contributions
+- Currently exploring contributions to **[Predictive Calc](#)**, an open-source project that provides machine learning models for various predictions via a web interface.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gos24abhik&" alt="gos24abhik" /></p>
+## 📫 Connect with Me
+- [LinkedIn](#)
+- [Twitter](#)
+- [Email](#) (your.email@example.com)
+
+Feel free to check out my repositories and collaborate on exciting projects!
+
 
