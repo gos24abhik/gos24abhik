@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**gos24abhik/gos24abhik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hi there! I'm Abhik Goswami
 
 I'm a **final-year Computer Science and Design student** at Dr. B. C. Roy Engineering College, Durgapur, with a passion for **data science, machine learning, and web development**. Currently maintaining a **9.0 CGPA**, I aim to leverage my technical skills to create innovative solutions.
@@ -43,5 +38,4 @@ I'm a **final-year Computer Science and Design student** at Dr. B. C. Roy Engine
 - [Email](#) (your.email@example.com)
 
 Feel free to check out my repositories and collaborate on exciting projects!
-
 
