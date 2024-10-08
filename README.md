@@ -29,9 +29,6 @@ I'm a **final-year Computer Science and Design student** at Dr. B. C. Roy Engine
 - **IBM HACK Challenge 2023 Finalist**
 - Completed several certifications in data science and programming from NPTEL and IBM.
 
-## 🌟 Contributions
-- Currently exploring contributions to **[Predictive Calc](#)**, an open-source project that provides machine learning models for various predictions via a web interface.
-
 ## 📫 Connect with Me
 - [LinkedIn](#)
 - [Twitter](#)
