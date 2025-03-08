@@ -32,6 +32,6 @@ I'm a **final-year Computer Science and Design student** at Dr. B. C. Roy Engine
 ## 📫 Connect with Me
 - [LinkedIn](#)
 - [Twitter](#)
-- [Email](#) (your.email@example.com)
+- [Email](#) gos24abhik@gmail.com
 
 Feel free to check out my repositories and collaborate on exciting projects!
